@@ -112,7 +112,7 @@
         $(".typing").typed({
             strings: ["Tech-Enthusiast", "Aspiring Software Engineer", "Open Source Contributor", "Mern Stack Developer."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
-            typeSpeed: 40
+            typeSpeed: 80
           });
          });
 
